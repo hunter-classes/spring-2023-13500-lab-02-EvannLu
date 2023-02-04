@@ -1,3 +1,10 @@
+/*
+Author: Evan Lu
+Course: CSCI-135
+Instructor: Professor Zamansky
+Assignment: Task A. Input validation
+*/
+
 #include <iostream>
 #include <cmath>
 
