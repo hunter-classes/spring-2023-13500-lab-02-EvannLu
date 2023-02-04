@@ -21,6 +21,5 @@ int main(){
         std::cout << "neither";
     }
 
-
     return 0; 
 }
