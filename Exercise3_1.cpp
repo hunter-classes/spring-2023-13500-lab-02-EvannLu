@@ -11,7 +11,7 @@ Assignment:  Write a program that reads an integer and
 int main(){ 
     int input; 
 
-    std::cout << "Enter a  integer: ";
+    std::cout << "Enter a integer: ";
     std::cin >> input; 
 
     if(input == 0){
